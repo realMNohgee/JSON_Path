@@ -1,4 +1,5 @@
 # JSON_Path
+![CI](https://github.com/realMNohgee/JSON_Path/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Query and transform JSON with path expressions. Like `jq` for people who don't want to learn `jq`. **Zero dependencies** — Python stdlib only.
 
