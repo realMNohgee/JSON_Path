@@ -9,6 +9,6 @@ jobs:
         with:
           python-version: '3.9'
       - name: Compile check
-        run: python3 -m py_compile JSON_Path.py
+        run: python3 -m py_compile json_path.py
       - name: Smoke test (--help)
-        run: python3 JSON_Path.py --help
+        run: python3 json_path.py --help
